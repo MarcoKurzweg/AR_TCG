@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Wiking" size="1.000000 3.157143" />
+    <ImageTarget name="Wave" size="1.000000 0.908832" />
+    <ImageTarget name="pigeon" size="1.000000 0.922027" />
+    <ImageTarget name="Maulwurf" size="1.000000 1.105634" />
+    <ImageTarget name="Forelle" size="1.000000 1.434659" />
+    <ImageTarget name="Fishprister" size="1.000000 0.936455" />
+    <ImageTarget name="deathgod" size="1.000000 0.842505" />
+    <ImageTarget name="Carot" size="1.000000 1.032907" />
+    <ImageTarget name="Broccoli" size="1.000000 0.984496" />
+    <ImageTarget name="Ananas" size="1.000000 0.528908" />
+    <ImageTarget name="WaterKeeper" size="1.000000 1.647196" />
+    <ImageTarget name="FireKeeper" size="1.000000 1.473799" />
+    <ImageTarget name="Joker" size="1.000000 1.422287" />
+    <ImageTarget name="SkullGod" size="1.000000 1.118060" />
+    <ImageTarget name="Beaver" size="1.000000 0.761905" />
+  </Tracking>
+</QCARConfig>
